@@ -4,7 +4,7 @@
 
 	<listeners>
 		<listener
-			class-name="com.k2j.mavenbasicwf.extentreports.ExtentReporterNG" />
+			class-name="com.k2js.mavenbasicfw.extentreports.ExtentReporterNG" />
 	</listeners>
 	<test thread-count="5" verbose="2" name="Default test">
 		<classes>
